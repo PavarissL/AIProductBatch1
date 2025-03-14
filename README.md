@@ -80,3 +80,6 @@ Folder Structure
 ├── db/                   # Chroma vector database
 ├── requirements.txt      # All Python dependencies
 └── README.md             # This file
+
+<img width="1134" alt="Screenshot 2025-03-14 190123" src="https://github.com/user-attachments/assets/2771d90f-2fb3-46b9-885d-888edab04595" />
+
